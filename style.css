@@ -1,0 +1,53 @@
+body{
+
+background-color: #ccd6dd;
+margin-bottom:50px;
+}
+
+#bandeau{
+	background-color:white;
+	padding-left:25%;
+}
+
+#synthese{
+	margin-left:25%;
+	margin-right:25%;
+	width:50%;	
+	
+}
+
+#planclassement{
+	margin-left:25%;
+	margin-right:25%;
+	width:50%;	
+	
+}
+
+h1{
+	
+	color: #363b74;
+}
+
+h2{
+	
+	color: #422f7b;
+	margin-left:5%;
+}
+
+h3{
+	
+	
+	margin-left:8%;
+}
+
+a{
+	
+	
+	margin-left:8%;
+}
+
+iframe{
+	
+	margin-left:8%;
+}
+
